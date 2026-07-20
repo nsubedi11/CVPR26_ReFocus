@@ -13,6 +13,14 @@
 
 ---
 
+## Release
+
+- [x] Dataset (EM-QnF annotations on [HuggingFace](https://huggingface.co/datasets/RainbowMan1/ReFocus))
+- [x] Eval code + checkpoint
+- [ ] Training code (coming soon)
+
+---
+
 ## Overview
 
 We introduce **EM-QnF** (Episodic Memory with Questions and Feedback), a new task that extends natural language query-based episodic memory retrieval to an interactive setting. Rather than relying on a single one-shot prediction, users can provide feedback on the model's initial prediction or add more information, enabling iterative refinement of results.
