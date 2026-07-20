@@ -9,13 +9,13 @@
 [![Paper](https://img.shields.io/badge/arXiv-2604.24893-b31b1b)](https://arxiv.org/abs/2604.24893)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://nsubedi11.github.io/refocus/)
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-green)](https://cvpr.thecvf.com/virtual/2026/poster/37436)
-[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/RainbowMan1/ReFocus)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/nsubedi123/EM-QnF)
 
 ---
 
 ## Release
 
-- [x] Dataset (EM-QnF annotations on [HuggingFace](https://huggingface.co/datasets/RainbowMan1/ReFocus))
+- [x] Dataset (EM-QnF annotations on [HuggingFace](https://huggingface.co/datasets/nsubedi123/EM-QnF))
 - [x] Eval code + checkpoint
 - [ ] Training code (coming soon)
 
@@ -29,7 +29,7 @@ We also propose **FALM** (Feedback ALignment Module), a plug-and-play module tha
 
 ## Dataset
 
-The EM-QnF dataset is hosted on HuggingFace: [RainbowMan1/ReFocus](https://huggingface.co/datasets/RainbowMan1/ReFocus).
+The EM-QnF dataset is hosted on HuggingFace: [RainbowMan1/ReFocus](https://huggingface.co/datasets/nsubedi123/EM-QnF).
 
 It contains feedback annotations for three episodic memory benchmarks:
 
