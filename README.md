@@ -66,7 +66,13 @@ Download the subset LMDBs from Google Drive and place them as shown below:
 | goalstep_qnf test | [goalstep_qnf_test.zip](https://drive.google.com/file/d/1s-hWy4LQWT7EhlgJ_HB-HivEaKaRz-Eb/view?usp=drive_link) |
 | hd_epic_qnf test | [hd_epic_qnf_test.zip](https://drive.google.com/file/d/1FJzMge2WICvRBGkV9FffwGytaqTpa3he/view?usp=drive_link) |
 
-After downloading, unzip each archive and place them as:
+Download the checkpoint:
+
+| File | Link |
+|------|------|
+| `refocus_emqnf.t7` | [Google Drive](https://drive.google.com/file/d/1aFfwmofk7gxvtLJSZJcDz4cmMAvgfrT7/view?usp=sharing) |
+
+After downloading, unzip each archive and place everything as:
 
 ```
 data/features/subset_lmdb/
