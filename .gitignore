@@ -11,3 +11,4 @@ data/
 ckpt/
 results/
 predictions/
+make_subset_lmdb.py
